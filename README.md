@@ -49,7 +49,7 @@ fields_of_interests:
 
   
 currently_learning: ["Deep learning Specialization","JavaScript","React", Signal Processing", "Advanced Neurocsience"]
-2022 Goals: ["Generate More codes and Learn more things as i can! "]
+2022 Goals: ["Generate more code and work on personal coding projects, Read and learn more about emerging technologies and industry trends."]
 hobbies: ["hike", "Ping Pong", "Music", "Reading"]
 ```
   
@@ -66,8 +66,6 @@ hobbies: ["hike", "Ping Pong", "Music", "Reading"]
 </p>
 
 ---
-
-<h2> 📈 &nbsp;My GitHub History!</h2>
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
